@@ -1,5 +1,5 @@
 # Frontend bootcamp project
-This is a frontend project made using HTML, CSS, Javascript and Bootstrap.
+This is a frontend project made using HTML and CSS
 
 ## Preview
 ![Preview](preview1.jpg)
