@@ -3,8 +3,8 @@ This is a frontend project made using HTML and CSS
 
 ## Preview
 ![Preview](preview1.jpg)
-![Preview](preview1.jpg)
-![Preview](preview1.jpg)
+![Preview](preview2.jpg)
+![Preview](preview3.jpg)
 
 ### This project is for educational and portfolio purposes only.
 
